@@ -1,0 +1,4 @@
+LIBRARY	"SNCTSave"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
